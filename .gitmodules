@@ -1,0 +1,91 @@
+[submodule "Android-MVVM-Boilerplate-Hilt"]
+	path = Android-MVVM-Boilerplate-Hilt
+	url = https://github.com/aregpetrosyan/Android-MVVM-Boilerplate-Hilt.git
+
+[submodule "Awesome-WanAndroid"]
+	path = Awesome-WanAndroid
+	url = https://github.com/JsonChao/Awesome-WanAndroid.git
+
+[submodule "DataStore-sample"]
+	path = DataStore-sample
+	url = https://github.com/Kotlin-Android-Open-Source/DataStore-sample.git
+
+[submodule "DataStoreDemo"]
+	path = DataStoreDemo
+	url = https://github.com/shalutd/DataStoreDemo.git
+
+[submodule "DeepNight-in-kotlin"]
+	path = DeepNight-in-kotlin
+	url = https://github.com/xfhy/DeepNight-in-kotlin.git
+
+[submodule "Hoo"]
+	path = Hoo
+	url = https://github.com/mCyp/Hoo
+
+[submodule "Jetpack-MVVM-Best-Practice"]
+	path = Jetpack-MVVM-Best-Practice
+	url = https://github.com/KunMinX/Jetpack-MVVM-Best-Practice.git
+
+[submodule "JetpackMvvm"]
+	path = JetpackMvvm
+	url = https://github.com/hegaojian/JetpackMvvm.git
+
+[submodule "KotlinMvp"]
+	path = KotlinMvp
+	url = https://github.com/git-xuhao/KotlinMvp
+
+[submodule "MVVM-Architecture"]
+	path = MVVM-Architecture
+	url = https://github.com/qingmei2/MVVM-Architecture.git
+
+[submodule "MVVM-Kotlin-Android-Architecture"]
+	path = MVVM-Kotlin-Android-Architecture
+	url = https://github.com/ahmedeltaher/MVVM-Kotlin-Android-Architecture.git
+
+[submodule "MVVM-Project-Hilt"]
+	path = MVVM-Project-Hilt
+	url = https://github.com/Amifeng/MVVM-Project-Hilt.git
+
+[submodule "MVVM-Project-Navigation"]
+	path = MVVM-Project-Navigation
+	url = https://github.com/imifeng/MVVM-Project-Navigation.git
+
+[submodule "MVVMFramework"]
+	path = MVVMFramework
+	url = https://github.com/Chen-Xi-g/MVVMFramework.git
+
+[submodule "MVVMHabit"]
+	path = MVVMHabit
+	url = https://github.com/goldze/MVVMHabit.git
+
+[submodule "SumTea_Android"]
+	path = SumTea_Android
+	url = https://github.com/suming77/SumTea_Android.git
+
+[submodule "WanAndroid"]
+	path = WanAndroid
+	url = https://github.com/iceCola7/WanAndroid.git
+
+[submodule "android-sunflower-java"]
+	path = android-sunflower-java
+	url = https://github.com/hatewx/android-sunflower-java.git
+
+[submodule "bytebits/WanAndroid"]
+	path = bytebits/WanAndroid
+	url = https://github.com/bytebitx/WanAndroid.git
+
+[submodule "flutter_wanandroid"]
+	path = flutter_wanandroid
+	url = https://github.com/Sky24n/flutter_wanandroid.git
+
+[submodule "goweii/WanAndroid"]
+	path = goweii/WanAndroid
+	url = https://github.com/goweii/WanAndroid.git
+
+[submodule "lulululbj/wanandroid"]
+	path = lulululbj/wanandroid
+	url = https://github.com/lulululbj/wanandroid.git
+
+[submodule "sunflower"]
+	path = sunflower
+	url = https://github.com/android/sunflower.git
